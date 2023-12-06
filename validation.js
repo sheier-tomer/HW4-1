@@ -1,4 +1,7 @@
-// validation.js
+// Tomer Sheier
+// 	12/5/2023
+//  This assignment about creating a multiplication table using JavaScript. this file contains the Jquery code for the project. 
+//  The Jquery seems to be validating correctly.
 $(document).ready(function () {
     $("form").validate({
         rules: {
